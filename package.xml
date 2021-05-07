@@ -1,0 +1,22 @@
+<package>
+  <version>0.0.0</version>
+  <name>waypoint_trajectory_generator</name>
+  <description>
+
+     waypoint_trajectory_generator
+
+  </description>
+  <license>BSD</license>
+  <url>http://ros.org/wiki/waypoint_generator</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>roscpp</build_depend>
+  <build_depend>nav_msgs</build_depend>
+
+  <run_depend>roscpp</run_depend>
+  <run_depend>nav_msgs</run_depend>
+
+</package>
+
+
